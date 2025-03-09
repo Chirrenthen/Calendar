@@ -1,0 +1,22 @@
+{
+  "name": "Calendar | Chirrenthen",
+  "short_name": "Calendar",
+  "description": "A beautifully crafted interactive calendar by Chirrenthen.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#02c6f2",
+  "theme_color": "#08f4a1",
+  "icons": [
+      {
+          "src": "calendar.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "calendar.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "scope": "./"
+}
